@@ -1,0 +1,7 @@
+C:\YmlLanguageReplacement\YmlLanguageReplacement\bin\Debug\YmlLanguageReplacement.exe.config
+C:\YmlLanguageReplacement\YmlLanguageReplacement\bin\Debug\YmlLanguageReplacement.exe
+C:\YmlLanguageReplacement\YmlLanguageReplacement\bin\Debug\YmlLanguageReplacement.pdb
+C:\YmlLanguageReplacement\YmlLanguageReplacement\obj\Debug\YmlLanguageReplacement.csprojResolveAssemblyReference.cache
+C:\YmlLanguageReplacement\YmlLanguageReplacement\obj\Debug\YmlLanguageReplacement.csproj.CoreCompileInputs.cache
+C:\YmlLanguageReplacement\YmlLanguageReplacement\obj\Debug\YmlLanguageReplacement.exe
+C:\YmlLanguageReplacement\YmlLanguageReplacement\obj\Debug\YmlLanguageReplacement.pdb
